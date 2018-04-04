@@ -1,12 +1,12 @@
 # JIM installer adjusted for for NAT
 An installer to account for IPv4 NAT
 
-![alt text](JIM screenshots/Jamf Entry.png)
+![Alt text](https://github.com/zdorow/JIM_for_NAT/blob/master/JIM%20screenshots/URL%20Entry.png)
 
-![alt text](JIM screenshots/NAT entry.png)
+![Alt text](https://github.com/zdorow/JIM_for_NAT/blob/master/JIM%20screenshots/UserEntry.png)
 
-![alt text](JIM screenshots/Network FQDN entry.png)
+![Alt text](https://github.com/zdorow/JIM_for_NAT/blob/master/JIM%20screenshots/Password%20Entry.png)
 
-![alt text](JIM screenshots/URL Entry.png)
+![Alt text](https://github.com/zdorow/JIM_for_NAT/blob/master/JIM%20screenshots/Network%20FQDN%20entry.png)
 
-![alt text](JIM screenshots/Useer Entry.png)
+![Alt text](https://github.com/zdorow/JIM_for_NAT/blob/master/JIM%20screenshots/NAT%20entry.png)
