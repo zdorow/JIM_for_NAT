@@ -12,27 +12,27 @@ Main changes are:
 4. Adjustments for Jamf re-branding
 
 First prompt is minor changes for re-branding and examples for local and cloud hosted.
-![Alt text](https://github.com/zdorow/JIM_for_NAT/blob/master/JIM%20screenshots/URL%20Entry.png)
+![Image of URL](https://github.com/zdorow/JIM_for_NAT/blob/master/JIM%20screenshots/URL%20Entry.png)
 
 Second prompt has changes to more accurately describe the privileges needed and re-branding.
-![Alt text](https://github.com/zdorow/JIM_for_NAT/blob/master/JIM%20screenshots/UserEntry.png)
+![Image of User](https://github.com/zdorow/JIM_for_NAT/blob/master/JIM%20screenshots/UserEntry.png)
 
 Third prompt changes are solely for re-branding. 
-![Alt text](https://github.com/zdorow/JIM_for_NAT/blob/master/JIM%20screenshots/Password%20Entry.png)
+![Image of Password](https://github.com/zdorow/JIM_for_NAT/blob/master/JIM%20screenshots/Password%20Entry.png)
 
 Fourth prompt added more accurate language for the information being requested and re-branding.
-![Alt text](https://github.com/zdorow/JIM_for_NAT/blob/master/JIM%20screenshots/FQDN.PNG)
+![Image of FQDN](https://github.com/zdorow/JIM_for_NAT/blob/master/JIM%20screenshots/FQDN.PNG)
 
 Fifth and final prompt to account for NAT by editing the /etc/hosts file. Users can input none to bypass.
-![Alt text](https://github.com/zdorow/JIM_for_NAT/blob/master/JIM%20screenshots/NATentry.PNG)
+![Image of NAT](https://github.com/zdorow/JIM_for_NAT/blob/master/JIM%20screenshots/NATentry.PNG)
 
 Addition to the success message informing the user of the change.
-![Alt text](https://github.com/zdorow/JIM_for_NAT/blob/master/JIM%20screenshots/Successful_Install.PNG)
+![Image of success](https://github.com/zdorow/JIM_for_NAT/blob/master/JIM%20screenshots/Successful_Install.PNG)
 
 This shows how it would look in Jamf Pro once the changes are applied.
-![Alt text](https://github.com/zdorow/JIM_for_NAT/blob/master/JIM%20screenshots/Jamf%20Entry.png)
+![Image of JamfEntry](https://github.com/zdorow/JIM_for_NAT/blob/master/JIM%20screenshots/Jamf%20Entry.png)
 
 Once we connect it to LDAP this will show on the server when running Netstat -ntlp (Provided the network routing is place).
-![Alt text](https://github.com/zdorow/JIM_for_NAT/blob/master/JIM%20screenshots/Netstat.PNG)
+![Image of Netstat](https://github.com/zdorow/JIM_for_NAT/blob/master/JIM%20screenshots/Netstat.PNG)
 
 That is it! Thanks for reading! Any suggestions are welcomed! 
