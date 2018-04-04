@@ -15,7 +15,7 @@ First prompt is minor changes for re-branding and examples for local and cloud h
 ![Image of URL](https://github.com/zdorow/JIM_for_NAT/blob/master/JIMscreenshots/URL_Entry.png)
 
 Second prompt has changes to more accurately describe the privileges needed and re-branding.
-![Image of User](https://github.com/zdorow/JIM_for_NAT/blob/master/JIMscreenshots/UserEntry.png)
+![Image of UserName](https://github.com/zdorow/JIM_for_NAT/blob/master/JIMscreenshots/UserEntry.png)
 
 Third prompt changes are solely for re-branding. 
 ![Image of Password](https://github.com/zdorow/JIM_for_NAT/blob/master/JIMscreenshots/PasswordEntry.png)
